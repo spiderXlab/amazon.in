@@ -40,11 +40,12 @@
 
 .logo{
 
+  background-image: url("logo.png");
   background-size: cover;
 
   height: 50px;
 
-  width: 100%x;
+  width: 100%;
 
 }
 
