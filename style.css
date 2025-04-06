@@ -269,7 +269,7 @@ span{
 
      background-size: cover;  
 
-     height: 300px;
+     height: 290px;
 
      display: flex;
 
@@ -295,7 +295,7 @@ span{
 
      font-size: 0.85rem;
 
-     width: 80%;
+     width: 89%;
 
      margin-bottom: 25px;
 
@@ -308,8 +308,9 @@ span{
      color: #007185;
 
    }
-
-   
+.hero-m p{
+  margin-left: 10px;
+}
 
    /** shop section **/
 .shop-section {
